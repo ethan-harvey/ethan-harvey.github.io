@@ -1,9 +1,9 @@
 ---
-title: HOME
+title: README
 
 ---
 
-HOME
+README
 =========
 
 Projects
