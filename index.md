@@ -13,11 +13,11 @@ Projects
 
 
 #### Unincorporated
-[Unincorporated](https://ethanharvey.itch.io/unincorporated) - Project page on itch.io
-  Setting playbooks for Unincorporated:
+Project page on itch.io: [Unincorporated](https://ethanharvey.itch.io/unincorporated)
+  Setting playbooks:
   - [Vigil Creek Nature Preserve](https://ethanharvey.itch.io/vigil-creek)
   - [Weird Little Town](https://ethanharvey.itch.io/weird-little-town)
-  - [Ye Olde Faire](https://ethanharvey.itch.io/faire)
+  - Ye Olde Faire (Coming soon)
  
  
 #### Wool of Bat
