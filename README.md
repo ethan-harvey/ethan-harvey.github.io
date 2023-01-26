@@ -6,6 +6,7 @@ Projects
 -----------
 
 ::: {.card}
+
 #### Unincorporated
 Project page on itch.io: [Unincorporated](https://ethanharvey.itch.io/unincorporated)
 
