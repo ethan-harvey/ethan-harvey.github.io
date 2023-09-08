@@ -1,7 +1,3 @@
-
-README
-=========
-
 Projects
 -----------
 
@@ -11,8 +7,8 @@ Project page on itch.io: [Unincorporated](https://ethanharvey.itch.io/unincorpor
   Setting playbooks:
   - [Vigil Creek Nature Preserve](https://ethanharvey.itch.io/vigil-creek)
   - [Weird Little Town](https://ethanharvey.itch.io/weird-little-town)
-  - Ye Olde Faire (Coming soon)
-:::
+  - [Ye Olde Faire](https://ethanharvey.itch.io/faire)
+
  
 #### Wool of Bat
 - [Wool of Bat](https://ethanharvey.itch.io/wool-of-bat)
